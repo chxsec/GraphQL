@@ -1,5 +1,5 @@
 # Introspection
-## Check if introspection is enabled
+## Check if Introspection is enabled
 ```
 query {
      __schema {
