@@ -17,3 +17,5 @@ https://academy.hackthebox.com/module/271/section/3127
 
 ### Black Hat GrahpQL Book
 https://nostarch.com/black-hat-graphql
+
+### [GraphQL Vpyager](https://graphql-kit.com/graphql-voyager/)
