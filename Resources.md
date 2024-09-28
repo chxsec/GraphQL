@@ -1,5 +1,5 @@
 # GraphQL Resource Links<a id='1.o'></a>
-<H1> Nick Aleks </H1>
+## Nick Aleks
 ### [Nick Aleks' Github](https://github.com/nicholasaleks)
 ### [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix?tab=readme-ov-file)
 ***
