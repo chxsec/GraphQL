@@ -6,3 +6,7 @@ Burp extensions and usage.
 How to check for GrapQL
 ## [Introspection.md](https://github.com/chxsec/GraphQL/blob/main/Introspection.md)
 Different Introspecion Methods
+## [nmap.md](https://github.com/chxsec/GraphQL/blob/main/nmap.md)
+nmap scam to check for GraphQL
+## [Resources.md](https://github.com/chxsec/GraphQL/blob/main/Resources.md)
+Helpful GraphQL Resources
