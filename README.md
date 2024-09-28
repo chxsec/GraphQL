@@ -1,4 +1,4 @@
-# GraphQL
+# GraphQL [Header](#1.0) 
 Useful GraphQL things
 ## Burp.md
 Burp Extensions and Information
