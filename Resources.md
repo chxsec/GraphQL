@@ -8,7 +8,6 @@
 ### [Introspection from dolevf](https://github.com/dolevf/Black-Hat-GraphQL/blob/master/queries/introspection_query.txt)
 ***
 ### [Hack the Box Academy Course on GraphQL](https://academy.hackthebox.com/module/271/section/3127)
-
 ### [Black Hat GrahpQL Book](https://nostarch.com/black-hat-graphql)
-
 ### [GraphQL Voyager](https://graphql-kit.com/graphql-voyager/)
+### [GraphQL Documentation](https://graphql.org/learn/)
