@@ -1,6 +1,6 @@
 # GraphQL Resource Links<a id='1.o'></a>
 
-### [Nick Aleks\' Github}(https://github.com/nicholasaleks)
+### [Nick Aleks\'\ Github}(https://github.com/nicholasaleks)
 
 ### [graphw00f](https://github.com/dolevf/graphw00f)
 
