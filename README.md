@@ -1,6 +1,6 @@
 # GraphQL
 Useful GraphQL things
-## Burp.md
+## [Burp.md](https://daringfireball.net/projects/markdown/)
 Burp Extensions and Information
 ## nmap.md
 Scanning GraphQL
