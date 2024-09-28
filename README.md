@@ -3,8 +3,7 @@
 
 Useful GraphQL things
 ***
-## [Resources](https://github.com/chxsec/GraphQL/blob/main/Resources.md)
-Helpful GraphQL Resources and Links
+## [Resources](https://github.com/chxsec/GraphQL/blob/main/Resources.md) -- Helpful GraphQL Resources and Links
 ***
 ## [nmap](https://github.com/chxsec/GraphQL/blob/main/nmap.md)
 nmap scan to check for GraphQL
