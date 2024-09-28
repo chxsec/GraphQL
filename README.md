@@ -5,7 +5,7 @@ Useful GraphQL things
 Helpful GraphQL Resources
 ***
 ## [nmap](https://github.com/chxsec/GraphQL/blob/main/nmap.md)
-nmap scam to check for GraphQL
+nmap scan to check for GraphQL
 ***
 ## [Check for GraphQL](https://github.com/chxsec/GraphQL/blob/main/Check_for_GraphQL.md)
 How to check for GrapQL
