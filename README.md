@@ -1,4 +1,6 @@
 # GraphQL
+<img width="130" alt="image" src="https://github.com/user-attachments/assets/509ddf8e-bf4b-4613-a35b-7a902ec34927">
+
 Useful GraphQL things
 ***
 ## [Resources](https://github.com/chxsec/GraphQL/blob/main/Resources.md)
