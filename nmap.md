@@ -8,7 +8,7 @@ nmap -p- -sV --script=http-grep --script-args='match="Must provide query string"
 
 ## nmap scan for introspection being enabled
 Scan port 5013 with a list
-You can get the script here https://github.com/dolevf/nmap-graphql-introspection-nse then move to /usr/share/nmap/scripts
+You can get the script here [GraphQL nmap script](https://github.com/dolevf/nmap-graphql-introspection-nse) then move to /usr/share/nmap/scripts
 ```
 nmap --script=graphql-introspection -iL hosts.txt -sV -p 5013
 ```
