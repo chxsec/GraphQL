@@ -1,5 +1,5 @@
 # Burp
-
+[Return to README](https://github.com/chxsec/GraphQL/blob/main/README.md)
 ## Helfpful extesnsions
 - InQL - GraphQL Scanner
 - GraphQL Raider
