@@ -1,3 +1,5 @@
+# nmap
+[Return to README](https://github.com/chxsec/GraphQL/blob/main/README.md)
 ## Scan for "Must provide query string"
 NOTE: This will only work if there is not authentication in front of the API and this is using GET not all GraphQL APIs will allow GET requests. 
 ```
