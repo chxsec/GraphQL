@@ -1,4 +1,5 @@
 # Introspection
+[Return to README](https://github.com/chxsec/GraphQL/blob/main/README.md)
 ## Check if Introspection is enabled
 ```
 query {
