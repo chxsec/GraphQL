@@ -132,5 +132,60 @@ fragment TypeRef on __Type {
   }
 }
 ```
+
+# Identify Mutations with Introspection
+```
+query {
+  __schema {
+    mutationType {
+      name
+      fields {
+        name
+        args {
+          name
+          defaultValue
+          type {
+            ...TypeRef
+          }
+        }
+      }
+    }
+  }
+}
+
+fragment TypeRef on __Type {
+  kind
+  name
+  ofType {
+    kind
+    name
+    ofType {
+      kind
+      name
+      ofType {
+        kind
+        name
+        ofType {
+          kind
+          name
+          ofType {
+            kind
+            name
+            ofType {
+              kind
+              name
+              ofType {
+                kind
+                name
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```
+
 # Introspection in Burp
 <img width="1219" alt="image" src="https://github.com/user-attachments/assets/6df7102f-7917-4ff2-b1d1-a8f5a9111a65">
