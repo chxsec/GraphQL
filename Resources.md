@@ -7,6 +7,7 @@
 ## dolevf
 ### [graphw00f](https://github.com/dolevf/graphw00f)
 ### [Introspection from dolevf](https://github.com/dolevf/Black-Hat-GraphQL/blob/master/queries/introspection_query.txt)
+### [GraphQL-Cop](https://github.com/dolevf/graphql-cop)
 ***
 ### [Hack the Box Academy Course on GraphQL](https://academy.hackthebox.com/module/271/section/3127)
 ### [Black Hat GrahpQL Book](https://nostarch.com/black-hat-graphql)
