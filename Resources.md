@@ -13,3 +13,4 @@
 ### [Black Hat GrahpQL Book](https://nostarch.com/black-hat-graphql)
 ### [GraphQL Voyager](https://graphql-kit.com/graphql-voyager/)
 ### [GraphQL Documentation](https://graphql.org/learn/)
+### [InQL Burp Extension](https://github.com/portswigger/inql)
