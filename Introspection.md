@@ -132,6 +132,8 @@ fragment TypeRef on __Type {
   }
 }
 ```
+# Introspection in Burp
+<img width="1219" alt="image" src="https://github.com/user-attachments/assets/6df7102f-7917-4ff2-b1d1-a8f5a9111a65">
 
 # Identify Mutations with Introspection
 ```
@@ -186,6 +188,3 @@ fragment TypeRef on __Type {
   }
 }
 ```
-
-# Introspection in Burp
-<img width="1219" alt="image" src="https://github.com/user-attachments/assets/6df7102f-7917-4ff2-b1d1-a8f5a9111a65">
