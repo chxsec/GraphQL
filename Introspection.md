@@ -9,7 +9,10 @@ query {
 	}
 }
 ```
-
+## Introspection probe as GET request
+```
+GET /graphql?query=query%7B__schema%0A%7BqueryType%7Bname%7D%7D%7D
+```
 ## Run Introspection
 ```
 query IntrospectionQuery{
