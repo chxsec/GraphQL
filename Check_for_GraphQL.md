@@ -5,3 +5,8 @@ query {
           __typename
 }
 ```
+
+## GET Query
+```
+GET /graphql?query=query%7B__typename%7D
+```
