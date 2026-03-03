@@ -1,5 +1,5 @@
 # Common graphQL endpoints
-```
+
 /graphql
 /graphiql
 /playground
@@ -25,4 +25,4 @@
 /api/v2/graphql
 /admin/graphql
 /internal/graphql
-```
+
