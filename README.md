@@ -3,9 +3,10 @@
 
 Useful GraphQL things
 ***
-## [Resources](https://github.com/chxsec/GraphQL/blob/main/Resources.md) -- Helpful GraphQL Resources and Links
-## [nmap](https://github.com/chxsec/GraphQL/blob/main/nmap.md) -- nmap scan to check for GraphQL
-## [Check for GraphQL](https://github.com/chxsec/GraphQL/blob/main/Check_for_GraphQL.md) -- How to check for GrapQL
-## [Introspection](https://github.com/chxsec/GraphQL/blob/main/Introspection.md) -- Different Introspecion Methods
-## [Burp](https://github.com/chxsec/GraphQL/blob/main/Burp.md) -- Burp extensions and usage.
-## [GraphQL Common Endpoints](https://github.com/chxsec/GraphQL/blob/main/GraphQL%20Endpoints) -- Endpoints to check for GraphQL and GraphQL playgrounds.
+#### [Resources](https://github.com/chxsec/GraphQL/blob/main/Resources.md) -- Helpful GraphQL Resources and Links
+#### [nmap](https://github.com/chxsec/GraphQL/blob/main/nmap.md) -- nmap scan to check for GraphQL
+#### [Check for GraphQL](https://github.com/chxsec/GraphQL/blob/main/Check_for_GraphQL.md) -- How to check for GrapQL
+#### [Introspection](https://github.com/chxsec/GraphQL/blob/main/Introspection.md) -- Different Introspecion Methods
+#### [Burp](https://github.com/chxsec/GraphQL/blob/main/Burp.md) -- Burp extensions and usage.
+#### [GraphQL Common Endpoints](https://github.com/chxsec/GraphQL/blob/main/GraphQL%20Endpoints) -- Endpoints to check for GraphQL and GraphQL playgrounds.
+#### [Suggestions for GraphQL](https://github.com/chxsec/GraphQL/blob/main/Suggestions.md) -- Check if suggestions are enabled
